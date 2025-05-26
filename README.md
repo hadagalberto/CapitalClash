@@ -22,7 +22,7 @@ Capital Clash é um jogo multiplayer online inspirado em Monopoly e Business Tou
 
 ### 🔧 Requisitos
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
+- [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download)
 - [Node.js 18+](https://nodejs.org)
 - Gerenciador de pacotes: `npm` ou `yarn`
 
